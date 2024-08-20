@@ -1,0 +1,11 @@
+canvas {
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
